@@ -1,0 +1,14 @@
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Digital Innovation One\Bootcamps\Decola Tech Avanade\primeiro_app_simples_de_cadastro_.net\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
